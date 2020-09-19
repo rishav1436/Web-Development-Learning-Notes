@@ -1,8 +1,3 @@
----
-
-
----
-
 <blockquote>
 <h1 id="section-2--getting-started-with-html">Section 2 : Getting started with HTML</h1>
 </blockquote>
