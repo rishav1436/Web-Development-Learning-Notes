@@ -1,10 +1,13 @@
-<blockquote>
+---
+
+
+---
+
 <h1 id="section-2--getting-started-with-html">Section 2 : Getting started with HTML</h1>
-</blockquote>
-<p>This file is a simple cheat sheet for some basic HTML syntax which I learn from the udemy class. It will also include some comments if I think it is necesary.</p>
+<p>This file is a simple cheat sheet for some basic HTML syntax which I learn from the udemy class. It will also include some comments if I think it is necessary.</p>
 <p>Note: Every time we write a tag, we need to write a closed tag! A closed tag is similar to the initial tag but with a “/” inside.</p>
 <ul>
-<li><code>&lt;html&gt;</code> Beginnering of a HTML file</li>
+<li><code>&lt;html&gt;</code> Beginning of a HTML file</li>
 <li><code>&lt;body&gt;</code> Content of a HTML file</li>
 <li><code>&lt;h1&gt;</code> Header of a HTML file. Note: For any tags like <code>&lt;h2&gt;</code>, they are also head tags but remember, the larger the number next to h is, the smaller the header is.</li>
 <li><code>&lt;title&gt;</code> Title of my page. It will show at my broswer tag.</li>
