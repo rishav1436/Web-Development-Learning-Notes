@@ -1,7 +1,3 @@
----
-
-
----
 
 <h1 id="section-3--introduction-to-css">Section 3 : Introduction to CSS</h1>
 <p>CSS is cascading style sheet, allowing us to take control of the design and layout of our websites. We are in version CSS 3. CSS 3 is more mobile compatible.</p>
