@@ -82,6 +82,6 @@
 </ul>
 <p>CSS grouping, which allows us to add infinite number of elements name, class name or even ID before the <code>{}</code> in a CSS file.</p>
 <p>CSS specificity , we can calculate what will be shown on our website by the following photo.<br>
-<img src="Specificity.png" alt="Image of Specificity"></p>
+<img src="https://raw.githubusercontent.com/YipChiSan/Web-Development-Learning-Notes/master/Specificity.PNG" alt="Image of Specificity"></p>
 <p><strong>Note</strong>: We can also add <code>!important</code> at the end of class inside to make the class most important.</p>
 
