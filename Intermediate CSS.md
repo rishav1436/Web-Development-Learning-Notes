@@ -1,8 +1,3 @@
----
-
-
----
-
 <h1 id="section-4--intermediate-css">Section 4 : Intermediate CSS</h1>
 <p>CSS font: we have some ways to modify the style of text in CSS:</p>
 <ul>
